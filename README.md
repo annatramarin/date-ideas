@@ -9,13 +9,19 @@ First of all, clone the repository on your machine.
 git clone https://github.com/annatramarin/date_ideas.git
 ```
 
-Then access the repository and launch the script with `python` or `python3.
+Then access the repository and launch the script with `python` or `python3`.
 
 ```
 python date_ideas.py
 ```
 
+
 The following window should pop up:
 
 ![screenshot 1](screenshot_1.PNG)
 
+If you click on "No", 
+
+<p align="center">
+  <screenshot_1.PNG>
+  </p>
