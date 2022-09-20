@@ -1,15 +1,7 @@
-# NOT WORKING! THE WINDOW DOESN'T APPEAR
-
 # From the shell:
 # pip install tkinter
 
-# Set display variable - NOT WORKING
-#from pyvirtualdisplay import Display
-#display = Display(visible=0, size=(1400, 900))
-#display.start()
-
-
-# Importa lista ideas da file
+# Import lists
 general = open("./general.txt", "r", encoding='utf-8').read().split("\n")
 winter = open("./winter.txt", "r", encoding="utf-8").read().split("\n")
 spring = open("./spring.txt", "r", encoding="utf-8").read().split("\n")
@@ -39,7 +31,7 @@ window.title("Date ideas")
 #Set the geometry of the Tkinter frame
 window.geometry("500x500")
 
-l = Label(window, text="Welcome! \n Would you like to choose a season?", font=TITLE_FONT)   # Arial 16
+l = Label(window, text="Welcome! \n Would you like to choose a season?", font=TITLE_FONT)   
 l.pack()
 
 def no():
