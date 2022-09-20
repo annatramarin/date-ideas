@@ -92,7 +92,7 @@ button1.pack()
 button2 = Button(window, text='No', font= BUTTON_FONT, command=no)   
 button2.pack()
 
-label_no_yes = Label(window, font=OUTCOME_FONT)
+label_no_yes = Label(window, font=TITLE_FONT)
 label_no_yes.pack()
 label_no_yes.place(relx = 0.5,
                    rely = 0.35,
