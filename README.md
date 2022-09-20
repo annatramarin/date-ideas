@@ -26,8 +26,6 @@ If you click on "No", a date suggestion will be picked from the 'general.txt' li
 
 If you click on "Yes", you can further choose a season and get a season-tailored (sort of) suggestion.
 
-<p align="center">
-  <img src= "https://github.com/annatramarin/date_ideas/blob/main/screenshot_2.PNG"/>
-  </p>
+
 
 
