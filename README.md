@@ -18,12 +18,16 @@ python date_ideas.py
 
 The following window should pop up:
 
-![screenshot 1](screenshot_1.PNG)
-
-If you click on "No", a date suggestion will be picked from the 'general.txt' list.
-
-If you click on "Yes", you can further choose a season and get an 
-
 <p align="center">
   <img src= "https://github.com/annatramarin/date_ideas/blob/main/screenshot_1.PNG"/>
   </p>
+
+If you click on "No", a date suggestion will be picked from the 'general.txt' list.
+
+If you click on "Yes", you can further choose a season and get a season-tailored (sort of) suggestion.
+
+<p align="center">
+  <img src= "(https://github.com/annatramarin/date_ideas/blob/main/screenshot_2.PNG)"/>
+  </p>
+
+
