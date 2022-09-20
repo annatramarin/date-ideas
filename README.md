@@ -18,5 +18,5 @@ python date_ideas.py
 The following window should pop up:
 
 <p align='center'>
-![](https://github.com/annatramarin/date_ideas/blob/main/screenshot_1.PNG)
+!(https://github.com/annatramarin/date_ideas/blob/main/screenshot_1.PNG)
   </p>
