@@ -17,6 +17,5 @@ python date_ideas.py
 
 The following window should pop up:
 
-<p align='center'>
 ![screenshot 1](screenshot_1.PNG)
-  </p>
+
