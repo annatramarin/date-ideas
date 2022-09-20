@@ -63,7 +63,7 @@ def fuyu():
     label_seasons['text'] = Winter
     
 def yes():
-    scelta = "What's the season?"
+    scelta = "What season is it?"
     label_no_yes['text'] = scelta
     
     button_spring = Button(window, text= "Spring", font= BUTTON_FONT, command=haru)   
