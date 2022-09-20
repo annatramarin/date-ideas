@@ -20,8 +20,10 @@ The following window should pop up:
 
 ![screenshot 1](screenshot_1.PNG)
 
-If you click on "No", 
+If you click on "No", a date suggestion will be picked from the 'general.txt' list.
+
+If you click on "Yes", you can further choose a season and get an 
 
 <p align="center">
-  <screenshot_1.PNG>
+  <screenshot_1.PNG/>
   </p>
