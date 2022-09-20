@@ -14,3 +14,7 @@ Then access the repository and launch the script with `python` or `python3.
 ```
 python date_ideas.py
 ```
+
+The following window should pop up:
+
+![](https://github.com/annatramarin/date_ideas/blob/main/screenshot_1.PNG)
