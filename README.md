@@ -28,7 +28,7 @@ The following window should pop up:
   <img src= "https://github.com/annatramarin/date_ideas/blob/main/window_1.PNG"/>
   </p>
 
-If you click on "No", a date suggestion will be picked from the [general.txt](https://github.com/annatramarin/date_ideas/blob/main/general.txt) list.
+If you click on "No", a date suggestion will be picked from the [general list](https://github.com/annatramarin/date_ideas/blob/main/general.txt).
 
 If you click on "Yes", you can further choose a season and get a season-tailored (sort of) suggestion.
 
